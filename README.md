@@ -2,6 +2,10 @@
 
 A high-performance, offline-first Progressive Web Application (PWA) designed to help attendees enjoy, plan, and navigate the labyrinth that can be festivals. 
 
+I built a rudimentary version of this application last year, I have trouble navigating in crowds and can get bogged down at festivals and other events; I end staying at one or two locations instead of experiencing all I had meant to. This application is a start to help that, it allows me to always find my way and is named so for the hero that helped Theseus by laying down string so he could escape the Minotaur. 
+
+Have a look here: https://ariadne-festival.vercel.app
+
 ## Purpose
 
 This application provides a dynamic, interactive solution for:
