@@ -87,14 +87,14 @@ This application provides a dynamic, interactive solution for:
 
 # Roadmap
 
-** Full Offline
+### Full Offline
 
 Right now near the application caches as it's used. Offline-first is the next goal, just a few bugs to work out with React Server Components
 
-** Notifications
+### Notifications
 
 Due to limitations of notifications on the mobile, these would be basically useless, not sure a remote server to assist in this is the right method as it goes against offline-first. 
 
-** Media Links
+### Media Links
 
 Should interface with the artists more, allowing artists to be benefited more.
